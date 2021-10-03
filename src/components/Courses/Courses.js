@@ -1,20 +1,18 @@
 import React from 'react';
 import useCourses from '../../hooks/useCourses';
 import Course from '../Course/Course';
-import './Home.css'
+import './Courses.css'
 
-const Home = () => {
+const Courses = () => {
     const [courses] = useCourses();
-    // console.log(courses);
-    const sliceCourses = courses.slice(0, 4);
     return (
         <div>
-            <h3 className="mt-4 fw-bold">Popular Courses</h3>
+            <h3 className="mt-4 fw-bold">All Courses</h3>
             <div className="course-container">
                 {
-                    sliceCourses.map(course => <Course
-                        course={course}
+                    courses.map(course => <Course
                         key={course.id}
+                        course={course}
                     ></Course>)
                 }
             </div>
@@ -22,4 +20,4 @@ const Home = () => {
     );
 };
 
-export default Home;
+export default Courses;
