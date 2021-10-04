@@ -58,6 +58,22 @@ const Header = () => {
                                     </NavLink>
                                 </Nav.Link>
                             </Nav.Item>
+
+                            <Nav.Item>
+                                <Nav.Link>
+                                    <NavLink Link
+                                        className="custom-nav"
+                                        activeStyle={{
+                                            fontWeight: "bold",
+                                            color: "goldenrod"
+                                        }}
+                                        activeClassName="selected"
+                                        to="/contact-us">
+                                        Contact US
+                                    </NavLink>
+                                </Nav.Link>
+                            </Nav.Item>
+
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
