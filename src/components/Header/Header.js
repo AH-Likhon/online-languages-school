@@ -1,7 +1,8 @@
 import React from 'react';
-import { Container, Image, Nav, Navbar } from 'react-bootstrap';
+import { Container, Nav, Navbar } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
-import logo from '../../images/logo.svg';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faUserGraduate } from '@fortawesome/free-solid-svg-icons';
 import './Header.css'
 
 const Header = () => {
@@ -9,7 +10,11 @@ const Header = () => {
         <div>
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
                 <Container>
-                    <Image className="logo" src={logo} />
+                    {/* <Image className="logo" src={logo} /> */}
+                    <Navbar.Brand className="w-50">
+                        <FontAwesomeIcon className="icon-size text-warning" icon={faUserGraduate} /> Online Languages School</Navbar.Brand>
+
+
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="m-auto">

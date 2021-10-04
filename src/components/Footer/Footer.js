@@ -1,7 +1,8 @@
+import { faUserGraduate } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
-import { Col, Container, Image, ListGroup, Row } from 'react-bootstrap';
+import { Col, Container, Row } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
-import logo from '../../images/logo.svg';
 import './Footer.css'
 
 const Footer = () => {
@@ -9,11 +10,12 @@ const Footer = () => {
         <div className="bg-dark mb-0 py-3">
             <Container>
                 <Row>
-                    <Col xs={6} md={4}>
-                        <p className="text-white mt-4">@copyright 2021. All Rights Reserved By Likhon.</p>
+                    <Col className="text-white mt-4" xs={6} md={4}>
+                        <p>Copyright©️2021.All Rights Reserved By❤️Likhon.</p>
                     </Col>
                     <Col xs={6} md={4}>
-                        <Image className="logo mt-4" src={logo} thumbnail />
+                        <FontAwesomeIcon className="icon-size text-warning mt-3" icon={faUserGraduate} /> <small className="text-white fw-bold">Online Languages School</small>
+
                     </Col>
                     <Col xs={6} md={4}>
                         <NavLink className="custom-nav"
@@ -34,9 +36,6 @@ const Footer = () => {
                                 color: "goldenrod"
                             }}
                             activeClassName="selected" to="/courses">Courses</NavLink>
-                    </Col>
-                    <Col xs={6} md={4}>
-
                     </Col>
                 </Row>
             </Container>

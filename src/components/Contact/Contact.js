@@ -20,18 +20,19 @@ const Contact = () => {
                 </Row>
 
                 <Form.Group className="mb-3" controlId="formGridAddress1">
-                    <Form.Control type="text" placeholder="Subject *" />
+                    <Form.Control type="text" placeholder="Subject *" required />
                 </Form.Group>
 
                 <FloatingLabel controlId="floatingTextarea2" label="Description *">
                     <Form.Control
                         as="textarea"
                         placeholder="Leave a comment here"
-                        style={{ height: '100px' }}
+                        style={{ height: '110px' }}
+                        required
                     />
                 </FloatingLabel><br />
 
-                <Button className="fw-bold" variant="warning" type="submit">
+                <Button className="bg-secondary border-0 text-white fw-bold" variant="warning" type="submit">
                     Submit
                 </Button>
             </Form>

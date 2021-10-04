@@ -7,6 +7,7 @@
         "price": 69,
         "ratings": 4.9,
         "reviews": 135,
+        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg",
         "thumb": "https://scuola.vamtam.com/wp-content/uploads/2020/04/cat-1-453x453.jpg"
     },
     {
@@ -17,6 +18,7 @@
         "price": 80,
         "ratings": 4.5,
         "reviews": 155,
+        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg",
         "thumb": "https://scuola.vamtam.com/wp-content/uploads/2020/04/cat-2-453x453.jpg"
     },
     {
@@ -27,6 +29,7 @@
         "price": 35,
         "ratings": 4.7,
         "reviews": 315,
+        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg",
         "thumb": "https://ugc.futurelearn.com/uploads/images/ef/9d/header_small_ef9d37e2-1d97-4305-b385-be9b77c32323.jpg"
     },
     {
@@ -37,6 +40,7 @@
         "price": 50,
         "ratings": 4.2,
         "reviews": 95,
+        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-2-200x200.jpg",
         "thumb": "https://scuola.vamtam.com/wp-content/uploads/2020/03/h-76-453x453.jpg"
     },
     {
@@ -47,6 +51,7 @@
         "price": 55,
         "ratings": 4.00,
         "reviews": 265,
+        "trainerImg": "https://lmstheme.wpengine.com/wp-content/uploads/2014/05/teacher3.jpg",
         "thumb": "https://scuola.vamtam.com/wp-content/uploads/2020/01/Italy-3-453x453.jpg"
     },
     {
@@ -57,6 +62,7 @@
         "price": 60,
         "ratings": 3.9,
         "reviews": 35,
+        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg",
         "thumb": "https://eduma.thimpress.com/demo-titles-school/wp-content/uploads/sites/26/2015/06/course-5.jpg"
     },
     {
@@ -67,6 +73,7 @@
         "price": 75,
         "ratings": 4.5,
         "reviews": 175,
+        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-2-200x200.jpg",
         "thumb": "https://eduma.thimpress.com/demo-titles-school/wp-content/uploads/sites/26/2015/12/course-16.jpg"
     },
     {
@@ -77,6 +84,7 @@
         "price": 40,
         "ratings": 4.8,
         "reviews": 105,
+        "trainerImg": "https://lmstheme.wpengine.com/wp-content/uploads/2014/05/teacher3.jpg",
         "thumb": "https://eduma.thimpress.com/demo-titles-school/wp-content/uploads/sites/26/2015/06/course-6.jpg"
     },
     {
@@ -87,6 +95,7 @@
         "price": 80,
         "ratings": 4.4,
         "reviews": 535,
+        "trainerImg": "https://lmstheme.wpengine.com/wp-content/uploads/2014/05/teacher1.jpg",
         "thumb": "https://scuola.vamtam.com/wp-content/uploads/2019/11/h-18.jpg"
     },
     {
@@ -97,6 +106,7 @@
         "price": 50,
         "ratings": 2.00,
         "reviews": 185,
+        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg",
         "thumb": "https://ugc.futurelearn.com/uploads/images/6d/8f/header_small_6d8f7820-355b-4047-977a-74ad29d5906f.jpg"
     },
     {
@@ -107,6 +117,7 @@
         "price": 55,
         "ratings": 5.00,
         "reviews": 240,
+        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg",
         "thumb": "https://ugc.futurelearn.com/uploads/images/af/ed/header_small_afedb76d-e6b8-483b-bdf5-c617f5a40be1.jpg"
     },
     {
@@ -117,6 +128,7 @@
         "price": 60,
         "ratings": 4.6,
         "reviews": 55,
+        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg",
         "thumb": "https://ugc.futurelearn.com/uploads/images/af/b8/thumbnail_afb8d185-9ee2-44f1-a11e-a6dc8f89c92f.jpg"
     }
 ]

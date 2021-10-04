@@ -11,6 +11,7 @@ const Home = () => {
     const [courses] = useCourses();
     // console.log(courses);
     const sliceCourses = courses.slice(0, 4);
+
     return (
         <div>
 
@@ -56,6 +57,7 @@ const Home = () => {
 
             </div>
 
+            {/* course details start */}
             <div>
                 <h3 className="mt-4 fw-bold">Popular Courses</h3>
                 <div className="course-container">
