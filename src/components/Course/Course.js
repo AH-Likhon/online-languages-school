@@ -1,5 +1,6 @@
 import React from 'react';
 import { Card, Col, Row, Button } from 'react-bootstrap';
+import Rating from 'react-rating';
 import './Course.css'
 
 const Course = (props) => {
@@ -14,6 +15,14 @@ const Course = (props) => {
                             <Card.Title> {title} </Card.Title>
                             <Card.Text> {description} </Card.Text>
                             <Card.Title> Price: ${price}</Card.Title>
+
+                            <Rating
+                                initialRating={ratings}
+                                emptySymbol="far fa-star"
+                                fullSymbol="fas fa-star"
+                                readonly
+                            />({reviews})
+
                             <Card.Title> Trainer: {trainer}</Card.Title>
                             <Button variant="secondary">About Details</Button>
                         </Card.Body>

@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 
 const TeamMembers = (props) => {
     const { trainer, trainerImg } = props.course;
+
     return (
         <div>
 

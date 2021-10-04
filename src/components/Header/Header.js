@@ -74,7 +74,7 @@ const Header = () => {
                                         }}
                                         activeClassName="selected"
                                         to="/contact-us">
-                                        Contact US
+                                        Contact Us
                                     </NavLink>
                                 </Nav.Link>
                             </Nav.Item>

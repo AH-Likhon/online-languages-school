@@ -1,6 +1,17 @@
 [
     {
         "id": 1,
+        "trainer": "Abbie Cornish",
+        "title": "Learn Spanish for Global Communication",
+        "description": "Spanish is the second most spoken title on earth, second only to Mandarin, and growing in use every day.",
+        "price": 35,
+        "ratings": 4.7,
+        "reviews": 315,
+        "trainerImg": "https://lmstheme.wpengine.com/wp-content/uploads/2014/05/teacher4-300x300.jpg",
+        "thumb": "https://ugc.futurelearn.com/uploads/images/ef/9d/header_small_ef9d37e2-1d97-4305-b385-be9b77c32323.jpg"
+    },
+    {
+        "id": 2,
         "trainer": "Hinata Hyuga",
         "title": "Introduction to Advanced Portuguese",
         "description": "If you have a solid grasp of elementary level vocabulary and grammar, our pre-intermediate courses are a great continuation.",
@@ -11,7 +22,7 @@
         "thumb": "https://scuola.vamtam.com/wp-content/uploads/2020/04/cat-1-453x453.jpg"
     },
     {
-        "id": 2,
+        "id": 3,
         "trainer": "Keny White",
         "title": "Introduction to Basic Japanese",
         "description": "Work on your conversation skills as well as comprehension and cultural knowledge with our advanced level Japanese classes.",
@@ -20,17 +31,6 @@
         "reviews": 155,
         "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg",
         "thumb": "https://scuola.vamtam.com/wp-content/uploads/2020/04/cat-2-453x453.jpg"
-    },
-    {
-        "id": 3,
-        "trainer": "Hinata Hyuga",
-        "title": "Learn Spanish for Global Communication",
-        "description": "Spanish is the second most spoken title on earth, second only to Mandarin, and growing in use every day.",
-        "price": 35,
-        "ratings": 4.7,
-        "reviews": 315,
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg",
-        "thumb": "https://ugc.futurelearn.com/uploads/images/ef/9d/header_small_ef9d37e2-1d97-4305-b385-be9b77c32323.jpg"
     },
     {
         "id": 4,
@@ -56,18 +56,18 @@
     },
     {
         "id": 6,
-        "trainer": "Hinata Hyuga",
+        "trainer": "Braden Davy",
         "title": "Learn German Language for Global communication",
         "description": "If you have a basic knowledge of German , you are ready to move on to our Elementary courses where you'll build upon the foundations.",
         "price": 60,
         "ratings": 3.9,
         "reviews": 35,
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg",
+        "trainerImg": "https://lmstheme.wpengine.com/wp-content/uploads/2014/05/teacher2.jpg",
         "thumb": "https://eduma.thimpress.com/demo-titles-school/wp-content/uploads/sites/26/2015/06/course-5.jpg"
     },
     {
         "id": 7,
-        "trainer": "Anthony",
+        "trainer": "Ellinor Aiki",
         "title": "General English",
         "description": "English courses in London for beginner, intermediate and advanced learners. Good English skills accelerate your career prospects and help you travel the world.",
         "price": 75,
@@ -78,13 +78,13 @@
     },
     {
         "id": 8,
-        "trainer": "John Doe",
+        "trainer": "Felicity Johnson",
         "title": "Learn French for Global Communication",
         "description": "If you are looking to progress to a higher level of French, these courses are for you. Take your title skills to the next level and work on your fluency.",
         "price": 40,
         "ratings": 4.8,
         "reviews": 105,
-        "trainerImg": "https://lmstheme.wpengine.com/wp-content/uploads/2014/05/teacher3.jpg",
+        "trainerImg": "https://kalvi.wpengine.com/kalvi-academy/wp-content/uploads/sites/10/2018/08/testimonial8.jpg",
         "thumb": "https://eduma.thimpress.com/demo-titles-school/wp-content/uploads/sites/26/2015/06/course-6.jpg"
     },
     {
@@ -100,35 +100,35 @@
     },
     {
         "id": 10,
-        "trainer": "Hinata Hyuga",
+        "trainer": "Eliza",
         "title": "English in Early Childhood",
         "description": "Explore early childhood development and find out how you can support young children learning English as an additional title.",
         "price": 50,
         "ratings": 2.00,
         "reviews": 185,
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg",
+        "trainerImg": "https://kalvi.wpengine.com/kalvi-academy/wp-content/uploads/sites/10/2018/08/testimonial-item.jpg",
         "thumb": "https://ugc.futurelearn.com/uploads/images/6d/8f/header_small_6d8f7820-355b-4047-977a-74ad29d5906f.jpg"
     },
     {
         "id": 11,
-        "trainer": "Keny White",
+        "trainer": "Gabriel John",
         "title": "Understanding IELTS",
         "description": "The complete guide to IELTS preparation with advice, strategies and practice for all four parts of the test.",
         "price": 55,
         "ratings": 5.00,
         "reviews": 240,
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg",
+        "trainerImg": "https://kalvi.wpengine.com/one-course/wp-content/uploads/sites/6/2018/08/one-course-testimonial-1.jpg",
         "thumb": "https://ugc.futurelearn.com/uploads/images/af/ed/header_small_afedb76d-e6b8-483b-bdf5-c617f5a40be1.jpg"
     },
     {
         "id": 12,
-        "trainer": "Keny White",
+        "trainer": "Donald Lara",
         "title": "Introduction to Korean",
         "description": "Develop your understanding of the Korean title and explore Korean culture. We are here for you.",
         "price": 60,
         "ratings": 4.6,
         "reviews": 55,
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg",
+        "trainerImg": "https://kalvi.wpengine.com/one-course/wp-content/uploads/sites/6/2018/08/one-course-testimonial-4.jpg",
         "thumb": "https://ugc.futurelearn.com/uploads/images/af/b8/thumbnail_afb8d185-9ee2-44f1-a11e-a6dc8f89c92f.jpg"
     }
 ]

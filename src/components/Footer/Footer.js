@@ -24,18 +24,27 @@ const Footer = () => {
                                 color: "goldenrod"
                             }}
                             activeClassName="selected" to="/home">Home</NavLink><br />
+
                         <NavLink className="custom-nav"
                             activeStyle={{
                                 fontWeight: "bold",
                                 color: "goldenrod"
                             }}
                             activeClassName="selected" to="/about-us">About Us</NavLink><br />
+
                         <NavLink className="custom-nav"
                             activeStyle={{
                                 fontWeight: "bold",
                                 color: "goldenrod"
                             }}
-                            activeClassName="selected" to="/courses">Courses</NavLink>
+                            activeClassName="selected" to="/courses">Courses</NavLink><br />
+
+                        <NavLink className="custom-nav"
+                            activeStyle={{
+                                fontWeight: "bold",
+                                color: "goldenrod"
+                            }}
+                            activeClassName="selected" to="/contact-us">Contact Us</NavLink>
                     </Col>
                 </Row>
             </Container>

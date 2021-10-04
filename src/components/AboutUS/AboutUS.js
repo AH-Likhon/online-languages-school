@@ -45,10 +45,8 @@ const AboutUS = () => {
                         ></TeamMembers>)
                     }
 
-
                 </Row>
             </div>
-
         </div>
     );
 };
